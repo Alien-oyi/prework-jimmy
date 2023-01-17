@@ -7,8 +7,11 @@ header,
 footer {
     width: 100%;
     height: 120px;
-    background-color: rgb(23, 219, 160);
+    <<<<<<< HEAD background-color: rgb(23, 219, 160);
     color: rgb(20, 2, 2);
+    =======background-color: rgb(19, 19, 20);
+    color: rgb(21, 223, 129);
+    >>>>>>>2dd9ba1aab8f7d195d9eb8870385a324c0cc4457
 }
 
 h1,
